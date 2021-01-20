@@ -21,7 +21,7 @@ function App() {
           tseke
         </h1>
         <h1>
-          temka
+          tuba
         </h1>
       </header>
       <h1>temka</h1>
