@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -19,6 +19,9 @@ function App() {
         </a>
         <h1>
           tseke
+        </h1>
+        <h1>
+          temka
         </h1>
       </header>
     </div>
