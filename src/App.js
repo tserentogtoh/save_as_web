@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -24,9 +24,7 @@ function App() {
           temka
         </h1>
       </header>
-=======
       <h1>temka</h1>
->>>>>>> f58662c48e6bc35cc864b03c3142d31ba50c2cca
     </div>
   );
 }
