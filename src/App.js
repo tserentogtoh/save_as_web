@@ -17,7 +17,9 @@ function App() {
         >
           Learn React
         </a>
-        <h1>tseke</h1>
+        <h1>
+          tseke
+        </h1>
       </header>
     </div>
   );
